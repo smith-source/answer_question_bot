@@ -16,7 +16,7 @@ Answer_bot 是一个智能问答机器人项目，结合了图像识别（OCR）
 ### 1. 克隆项目
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/smith-source/answer_question_bot.git
 cd Answer_bot
 ```
 
